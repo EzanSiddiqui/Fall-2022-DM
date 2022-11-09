@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assigntment 1</title>
+    <style>
+        body {background-color: powderblue;
+        background: url(https://images.news18.com/ibnlive/uploads/2021/03/1615695964_math-day-shutterstock.jpg?impolicy=website&width=510&height=356);}
+        h1   {color: rgb(6, 6, 7);}
+        button {color: rgb(6, 6, 7);} 
+        input {color: rgb(6, 6, 7);} 
+        </style>
+</head>
+<body>
+  
+    <h1>Transitive Closure</h1>
+<br>
+<input id="text1" type="text" placeholder="ENTER INPUT">
+<br>
+<br>
+<button  onClick=myFunction() id = "btn1">OUTPUT</button>
+
+<script>
+    function myFunction() {
+        var str = document.getElementById("text1").value;
+const myarr=str.split(",")
+const alphalist=[]
+
+
+//if ((myarr[0]=="a" && myarr[1]=="b") || (myarr[0]=="b" && myarr[1]=="c")|| (myarr[0]=="a" && myarr[1]=="c"))
+//{
+    for(let i=0;i<myarr.length;i++)
+    {
+            for(let j=0;j<myarr.length;j++)
+            {
+                alphalist.push("("+myarr[i]+","+myarr[j]+")");
+            }
+    }
+
+    alert(alphalist);
+}
+    
+   // }
+
+    </script>
+
+
+
+
+
+</body>
+</html>
