@@ -4,7 +4,10 @@ Made By:
   Ezan Siddiqui 13620
   Danish Ahmed 64820
   Mahnoor Asim 12678
+  
+  
   Brief Introduction:
+  
   Name : Ezan Siddiqui | SID :13620
   My name is Ezan Siddiqui. I'm Currently Studying Bachelors of Science in Computer Science at PAF-KIET. I have done Intermediate from Gulshan degree Government College in Pre-Engineering. I'm currently working as wedding photographer , and learning website designing as a part time.
   
