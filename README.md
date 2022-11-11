@@ -15,3 +15,6 @@ Made By:
   
   Name: Danish Ahmed | SID : 64820  
  My name is Danish Ahmed. I'm Currently Studying Bachelors of Science in Computer Science at PAF-KIET. I have done Intermediate from Jinnah Government College in Pre-Engineering. I'm Currently working as a Volunteer in Aga Khan University in Alumni Affairs Department. 
+
+  Name : Mahnoor Asim | SID : 12678
+  My name is Mahnoor Asim. I'm Currently Studying Bachelors of Science in Computer Science at PAF-KIET. I have done Intermediate from Government Girls College in Pre-Engineering.
