@@ -1,3 +1,4 @@
+Link : https://assignment1dmezan.netlify.app/
 # Assignment1
 #EzanSiddiqui/Fall-2022-Dm
 Its a DM(Discreate Mathematics Assignment)
