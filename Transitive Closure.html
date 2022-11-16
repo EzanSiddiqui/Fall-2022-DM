@@ -34,8 +34,12 @@ const alphalist=[]
     {
             for(let j=0;j<myarr.length;j++)
             {
-                alphalist.push("("+myarr[i]+","+myarr[j]+")");
-            }
+                for(let k=0;k<myarr.length;k++)
+                {
+                    myarr[i,j]= myarr[i,j] + myarr[i,k] * myarr[k,j];
+                    alphalist.push("("+myarr[i]+","+myarr[j]+")");
+                                   }
+           }
     }
 
     alert(alphalist);
